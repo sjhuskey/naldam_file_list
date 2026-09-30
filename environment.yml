@@ -1,0 +1,37 @@
+name: file_names
+channels:
+  - defaults
+  - conda-pypi
+dependencies:
+  - blas=1.0=openblas
+  - bzip2=1.0.8=h80987f9_6
+  - ca-certificates=2026.8.13=hca03da5_0
+  - libcxx=22.1.2=hf894667_0
+  - libexpat=2.8.5=h50f4ffc_1
+  - libffi=3.4.8=h4a3ca97_3
+  - libgfortran=15.2.0=h09d7db9_2
+  - libgfortran5=15.2.0=hb654fa1_2
+  - libmpdec=4.0.1=haa24f5a_0
+  - libopenblas=0.3.31=h7813bb4_6
+  - libzlib=1.3.2=hb4cf58c_0
+  - llvm-openmp=22.1.2=h4714345_1
+  - ncurses=6.6=h2f07c83_0
+  - numpy=2.5.3=py313heca761d_0
+  - numpy-base=2.5.3=py313h23175f9_0
+  - openssl=3.5.8=ha0b305a_0
+  - packaging=26.3=py313hca03da5_0
+  - pandas=3.0.6=py313h3f644e9_0
+  - pip=26.2.1=pyhc872135_0
+  - python=3.13.15=hc2e2225_102_cp313
+  - python-dateutil=2.9.0post0=py313hca03da5_2
+  - python_abi=3.13=4_cp313
+  - readline=8.3=h0b18652_0
+  - setuptools=83.0.0=py313hca03da5_0
+  - six=1.17.0=py313hca03da5_0
+  - sqlite=3.53.4=h1cce5ff_0
+  - tk=8.6.15=hcd8a7d5_0
+  - tzdata=2026c=he532380_0
+  - wheel=0.47.0=py313hca03da5_0
+  - xz=5.8.4=h9596fca_0
+  - zlib=1.3.2=hb4cf58c_0
+prefix: /Users/huskey/miniconda3/envs/file_names
