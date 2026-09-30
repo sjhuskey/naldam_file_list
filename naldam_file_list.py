@@ -25,17 +25,25 @@ from pathlib import Path
 DEFAULT_INVENTORY_FILE = "file_inventory.csv"
 
 DEFAULT_FILE_TYPES = [
-    ".wav",
-    ".pdf",
-    ".eaf",
-    ".xml",
+    ".doc",
     ".docx",
+    ".eaf",
     ".mov",
+    ".m4v",
     ".mp4",
-    ".txt",
+    ".pdf",
+    ".ppt",
     ".pptx",
+    ".txt",
+    ".epub",
+    ".wav",
+    ".eaf",
     ".fwbackup",
-    ".tar",
+    ".xls",
+    ".xlsx"
+    ".xhtml",
+    ".csv",
+    ".zip"
 ]
 
 
